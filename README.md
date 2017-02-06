@@ -1,5 +1,5 @@
-Foursquare Check-in Mapper
-By Joseph Fernandez
+# Foursquare Check-in Mapper
+By Joseph Fernandez  
 Under the guidance of Dr. William Hsu
 
 A final project at San Francisco State University's CSC690 -
@@ -7,7 +7,7 @@ Interactive Multimedia Application Development class.
 
 FoursquareCheckInMapper.pde
 
-Description:
+## Description:
 
 The Foursquare Check-in Mapper is a simple app that connects venues (locations)
 to the venues that people most often visit next, according to the check-ins of
@@ -21,20 +21,20 @@ each venue, such as the venue's name, address, website, total number of likes,
 total number of check-ins, and photos upon searching the venue or selecting
 the venue from the map.
 
-Requirements:
+## Requirements:
 
-Windows, Mac OS
+Windows, Mac OS  
 Processing 2.0
-- Download at https://processing.org/download/
+- Download at https://processing.org/download/  
 An Internet connection
 
-Required Libraries:
+## Required Libraries:
 
-Unfolding
+### Unfolding
 - Download at http://unfoldingmaps.org/
-controlP5
+### controlP5
 - Download at http://www.sojamo.de/libraries/controlP5/
-Temboo
+### Temboo
 - Download at https://temboo.com/download
 
 Please follow the documentation provided with each library to install each of
@@ -42,7 +42,7 @@ the required libraries. Generally, the libraries come archived (as a ZIP or simi
 so they just need to be unzipped and moved to the "libraries" folder of your
 Processing folder.
 
-How to use:
+## How to use:
 
 Once opened via Processing, begin with searching for a shop, a business,
 a restaurant, or any other landmark and the location for where to locate
