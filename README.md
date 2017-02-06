@@ -24,9 +24,9 @@ the venue from the map.
 ## Requirements:
 
 Windows, Mac OS  
+An Internet connection  
 Processing 2.0
-- Download at https://processing.org/download/  
-An Internet connection
+- Download at https://processing.org/download/
 
 ## Required Libraries:
 
